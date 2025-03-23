@@ -28,6 +28,4 @@ This project includes useful SQL queries for business insights:
 2. Run the script to create tables and insert sample data.  
 3. Execute the predefined queries to analyze sales, orders, and payments.  
 
----
 
-Let me know if you need any changes! 🚀
