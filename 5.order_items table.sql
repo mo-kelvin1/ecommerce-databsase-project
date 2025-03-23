@@ -1,3 +1,4 @@
+use ecommerce;
 create table order_items(
 	order_item_id integer primary key,
     order_id int,

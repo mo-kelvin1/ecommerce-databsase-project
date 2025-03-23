@@ -1,3 +1,4 @@
+use ecommerce;
 create table payments(
 	payment_id int primary key,
     order_id int,
